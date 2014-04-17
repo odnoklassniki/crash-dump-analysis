@@ -1,2 +1,2 @@
 #!/bin/bash
-java -cp out/production/crash -XX:ErrorFile=src/demo6/hs_err_pid2362.log $* demo6.Malloc
+java -Djava.library.path=$PWD/lib -cp out/production/crash demo6.NativeDistance
