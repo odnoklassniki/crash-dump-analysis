@@ -1,4 +1,0 @@
-compileonly demo6/Malloc.*
-compileonly sun/misc/Unsafe.*
-exclude demo6/Malloc.main
-print demo6/Malloc.free
