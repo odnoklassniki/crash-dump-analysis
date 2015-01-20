@@ -1,4 +1,0 @@
-compileonly extra1/Malloc.*
-compileonly sun/misc/Unsafe.*
-exclude extra1/Malloc.main
-print extra1/Malloc.free

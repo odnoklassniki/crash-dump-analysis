@@ -1,2 +1,2 @@
 #!/bin/bash
-java -Djava.library.path=$PWD/lib -cp out/production/crash demo6.NativeDistance
+java -Djava.library.path=$PWD/lib -cp out/production/crash-dump-analysis demo6.NativeDistance
